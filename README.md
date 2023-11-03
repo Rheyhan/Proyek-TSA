@@ -1,6 +1,6 @@
 # Dukun Hujan™ 🌧️
 [![Python3](https://img.shields.io/badge/language-Python3-red)](https://www.python.org/downloads/)
-![Lalala](https://img.shields.io/badge/Progress-on_progress%20%F0%9F%9A%A7-yellow)
+![haha](https://img.shields.io/badge/status-on_progress%20%F0%9F%9A%A7-yellow)
 
 This shit is subjected for jakarta flood prediction model
 
