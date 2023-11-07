@@ -19,7 +19,7 @@ def predict(features):
     features=encoder.transform(features)
     probability=model.predict(features)
     predicted = tf.where(probability < 0.5, 0, 1)
-    return [targetnames[0] for i in np.array(predicted)], probability.flatten()
+    return [targetnames[i[0]] for i in np.array(predicted)], probability.flatten()
 
 df=pd.read_csv(file)
 target, probability=predict(df)
