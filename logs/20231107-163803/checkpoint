@@ -1,0 +1,2 @@
+model_checkpoint_path: "callbacks"
+all_model_checkpoint_paths: "callbacks"
