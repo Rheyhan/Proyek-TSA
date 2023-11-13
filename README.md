@@ -4,6 +4,10 @@
 
 This app's subjected for jakarta flood prediction model.
 
+<p align="center">
+<img align="center" src="assets/Haha.png.png" width="900">
+</p>
+
 Dukun Hujan™ is a **DNN Model** to predict flood on specific area in Jakarta.
 
 
