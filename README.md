@@ -2,12 +2,12 @@
 [![Python3](https://img.shields.io/badge/language-Python3-red)](https://www.python.org/downloads/)
 ![haha](https://img.shields.io/badge/status-on_progress%20%F0%9F%9A%A7-yellow)
 
-This shit is subjected for jakarta flood prediction model
+This app's subjected for jakarta flood prediction model.
 
 Dukun Hujan™ is a **DNN Model** to predict flood on specific area in Jakarta.
 
 
-Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any responsibility for the use of this model. Also don't do illegal sh w/ this 😠. We ain't risking ourselves to jail 😭.**
+Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any responsibility for the use of this model. We don't claim for the misuse of this app.**
 
 Warning: The result won't be 100% accurate.
 
