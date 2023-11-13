@@ -4,7 +4,7 @@
 
 This shit is subjected for jakarta flood prediction model
 
-Dukun Hujan™ is a **DNN Model** to predict flood on specific area in Jakarta
+Dukun Hujan™ is a **DNN Model** to predict flood on specific area in Jakarta.
 
 
 Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any responsibility for the use of this model. Also don't do illegal sh w/ this 😠. We ain't risking ourselves to jail 😭.**
@@ -23,3 +23,20 @@ Made with love by
 6. Wijaya Pinuntun
 ```
 
+## Installation ⚙️
+
+1. Download the latest release
+
+2. Navigate to the folder you downloaded the release on
+
+3. Extract the rar file
+
+4. When trying to predict a new data, head and change the `Data/datayouwannapredict.csv` to the Appropriable dataset as written on the `metadata`.
+  
+5. Run the `main.exe`
+
+6. The prediction of the dataset will be made  on `Data/Result.csv`
+
+## Contributing 💡
+
+You can propose a feature request opening an issue or a pull request.
